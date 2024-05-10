@@ -1,0 +1,21 @@
+.form--login{
+    border-radius: 2px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+}
+
+.form--login--input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text-light-violet{
+    color:#af8ceb;
+}
+.btn-lighter-violet {
+    background-color: #af8ceb; 
+    color: white; 
+    border:0px;
+}
